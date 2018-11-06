@@ -56,7 +56,8 @@ Each tower is large enough to house a city state or two, but they're mostly aban
 ### Rumored Treasures
 
 1. Terraforming machines
-2. 
+
+
 
 ![Kowloon-capital](../../../RPG/Kowloon%20Planet%20Capital/Kowloon-capital.png)
 
