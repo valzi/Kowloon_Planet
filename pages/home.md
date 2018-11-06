@@ -1,9 +1,8 @@
 ---
-layout: layouts/home.njk
-title: Home
+title: Kowloon Planet
 date: 2016-01-01T00:00:00.000Z
 permalink: /
-navtitle: Home
+navtitle: Kowloon Planet
 tags:
   - nav
 ---
@@ -57,9 +56,9 @@ Each tower is large enough to house a city state or two, but they're mostly aban
 
 1. Terraforming machines
 
-![Kowloon-capital-TOP](images/uploads/Kowloon-capital-TOP.png)
+![Kowloon-capital-TOP](/static/img/Kowloon-capital-TOP.png)
 
-![Kowloon-capital](images/uploads/Kowloon-capital.png)
+![Kowloon-capital](/static/img/Kowloon-capital.png)
 
 The bottom floor of each building has automated defenses. The one at A is deactivated or destroyed.
 
@@ -82,7 +81,7 @@ The buildings here are generally under 10 stories tall. Unsealed buildings house
 2. 1 bear. 
 3. Drone
    attempts to stay out of reach but watches party. Allows a rival party to ambush if it's not evaded or destroyed in d4+3 turns.
-4. Rival party. (See *Rival Parties*.)
+4. Rival party. (See _Rival Parties_.)
 5. Bandits
    who ambush and loot other explorers, killing them if afraid to let them live or if they're uncooperative
 6. Aristocrat party
@@ -107,11 +106,11 @@ Roll 1d6 to determine which party is present. If that entry is blank, create a n
 Rival Parties:
 
 1. Create a new party. If all entries are full, this party won't be seen again.
-2. Details: [___]
-3. Details: [___]
-4. Details: [___]
-5. Details: [___]
-6. Details: [___]
+2. Details: \[___]
+3. Details: \[___]
+4. Details: \[___]
+5. Details: \[___]
+6. Details: \[___]
 
 ### D4-1 horses
 
@@ -158,7 +157,7 @@ Rival Parties:
 7. Transporting monster.
 8. Out of food
 9. Carrying D3 manuals.
-10. Being tracked by [roll a faction and create a party] who wish to kill them.
+10. Being tracked by \[roll a faction and create a party] who wish to kill them.
 11. Carrying a map to a dungeon entrance or to an important tower.
 12. Transporting a crate of valuable materials for building tech.
 
@@ -235,93 +234,91 @@ Called upon for mediation of disagreement. Little else.
 
 ### Laws
 
-- Anyone may scavenge/explore
-- personal disagreements/feuds handled by meditation, duel, or trial (last resort though only official method.) 
-- harm to locals by outsiders meets harshest punishment
+* Anyone may scavenge/explore
+* personal disagreements/feuds handled by meditation, duel, or trial (last resort though only official method.) 
+* harm to locals by outsiders meets harshest punishment
 
 ## Bestiary
 
-
-
 ## Factions
 
-- archivists/book binders/cataloguers (collect information, especially manuals, especially from the capital.)
-- recyclers of artifacts/junk
-- accounting/banking/safes/vaults
-- beast trainers - take pride in attempting to train anything that won't kill them.
-- beer/wine/cider/cigarettes/liquor/water - provide a minimum standard of living
-- beggars
-- botanists/gardeners
-- bounty hunters
-- butchers
-- candle-making/lantern-building/torch-making/oil preparation
-- cartographers/map archivists
-- constructors (carpenters/stoneworkers/brick-workers)
-- arbiters/administrators of contracts and oaths
-- bounty-setters/purchasers of artifacts
-- currency-makers
-- Setters/removers of curses (they're mostly ineffective)
-- collectors of debt/slave-merchants
-- delicate clothing
-- demolitionists
-- disguises
-- dissolvement of bonds/contracts/agreements
-- diviners (various mancies and communication with the dead)
-- duel mediation
-- economics
-- farming
-- feasts and parties
-- fishing
-- gambling
-- gardeners
-- gas and coal
-- gentlemen thieves
-- glass
-- guards
-- guides
-- history/archive/library destroyers
-- horse breeders
-- jewelry-making
-- keepers of ancient knowledge, relics, etc live atop the highrises.
-- killers of petty gods
-- lantern-making
-- lawful church
-- leatherworkers
-- library
-- limb replacement
-- locksmiths
-- maintainers of architecture
-- medics
-- merchants (foreign and local goods)
-- oracular
-- perfumists
-- philosophers
-- placaters of petty gods
-- plumbing
-- preservation of ecology
-- protect
-- public cleaners
-- quarantine of dungeon creatures
-- Rival scavengers
-- riotists
-- scales and other measures
-- scavenging in cramped spaces
-- scavenging in the open
-- scroll-writers
-- shipwrights
-- smiths of bone/metal/leather
-- spies
-- stone miners
-- storehouses
-- street performers
-- surgeons
-- tattooing/scarring/piercing
-- teachers
-- tinkers
-- tiny contraptions
-- tunnelers
-- weapon forging
-- wheeled transportation
+* archivists/book binders/cataloguers (collect information, especially manuals, especially from the capital.)
+* recyclers of artifacts/junk
+* accounting/banking/safes/vaults
+* beast trainers - take pride in attempting to train anything that won't kill them.
+* beer/wine/cider/cigarettes/liquor/water - provide a minimum standard of living
+* beggars
+* botanists/gardeners
+* bounty hunters
+* butchers
+* candle-making/lantern-building/torch-making/oil preparation
+* cartographers/map archivists
+* constructors (carpenters/stoneworkers/brick-workers)
+* arbiters/administrators of contracts and oaths
+* bounty-setters/purchasers of artifacts
+* currency-makers
+* Setters/removers of curses (they're mostly ineffective)
+* collectors of debt/slave-merchants
+* delicate clothing
+* demolitionists
+* disguises
+* dissolvement of bonds/contracts/agreements
+* diviners (various mancies and communication with the dead)
+* duel mediation
+* economics
+* farming
+* feasts and parties
+* fishing
+* gambling
+* gardeners
+* gas and coal
+* gentlemen thieves
+* glass
+* guards
+* guides
+* history/archive/library destroyers
+* horse breeders
+* jewelry-making
+* keepers of ancient knowledge, relics, etc live atop the highrises.
+* killers of petty gods
+* lantern-making
+* lawful church
+* leatherworkers
+* library
+* limb replacement
+* locksmiths
+* maintainers of architecture
+* medics
+* merchants (foreign and local goods)
+* oracular
+* perfumists
+* philosophers
+* placaters of petty gods
+* plumbing
+* preservation of ecology
+* protect
+* public cleaners
+* quarantine of dungeon creatures
+* Rival scavengers
+* riotists
+* scales and other measures
+* scavenging in cramped spaces
+* scavenging in the open
+* scroll-writers
+* shipwrights
+* smiths of bone/metal/leather
+* spies
+* stone miners
+* storehouses
+* street performers
+* surgeons
+* tattooing/scarring/piercing
+* teachers
+* tinkers
+* tiny contraptions
+* tunnelers
+* weapon forging
+* wheeled transportation
 
 #### Faction quirk
 
@@ -371,19 +368,13 @@ obsessed with wind movement
 
 motivated by deity
 
-
-
-
-
-
-
 ## Items
 
-- Breathing apparatus
-- Self-identification chimes
-- Wind Barrier device: Swirling winds deflect incoming and outgoing small missiles such as arrows or spears. May shelter # people = to Level of operator.
-- battery
-- electronic key 
+* Breathing apparatus
+* Self-identification chimes
+* Wind Barrier device: Swirling winds deflect incoming and outgoing small missiles such as arrows or spears. May shelter # people = to Level of operator.
+* battery
+* electronic key 
   1-8 Red (10gp) 2-5 gems
   9-11 Orange (50gp) 2-4 gems
   12-14 Yellow (100gp) 1-3 gems
@@ -391,15 +382,15 @@ motivated by deity
   17-18 Blue (500gp) 1 gem
   19 Indigo (1000gp) 1 gem
   20 Violet (5000gp) 1 gem
-- fuse
-- tech
-- manual
-- drink coaster sized metal disc that adheres to a flat surface - applies effect to object over minutes time
-- exposed cabling/conduit
-- anti organic gun shoots a 30' disintegration ray (save our disintegrate).  It has a cumulative 1 in 6 chance of exploding for 3d6 damage, affecting everyone in a 20' radius.
-- +1 weapon, made from strange metal. 
-- strange metal. 1-2, small; 3-4, medium, 5-6 large.  The alloy is light, durable, and nearly impossible to bend; if the right smith were found back in the world, it could forged into non-magic +1 armor or weapons
-- human - sized fixture (sort of like a shower) with indentations for feet in the floor and head in the wall. 
+* fuse
+* tech
+* manual
+* drink coaster sized metal disc that adheres to a flat surface - applies effect to object over minutes time
+* exposed cabling/conduit
+* anti organic gun shoots a 30' disintegration ray (save our disintegrate).  It has a cumulative 1 in 6 chance of exploding for 3d6 damage, affecting everyone in a 20' radius.
+* +1 weapon, made from strange metal. 
+* strange metal. 1-2, small; 3-4, medium, 5-6 large.  The alloy is light, durable, and nearly impossible to bend; if the right smith were found back in the world, it could forged into non-magic +1 armor or weapons
+* human - sized fixture (sort of like a shower) with indentations for feet in the floor and head in the wall. 
 
 1  Electrical malfunction - shocks anyone within 5' for 1d8.
 2  Implants ai in brain, alongside your mind
@@ -407,15 +398,15 @@ motivated by deity
 4 amputates limb and replaces with cybernetic limb.
 5 Intelligence - first character touching it gains a point of Intelligence. 
 
-- art
-- damaged gear from parties of recent years
-- Dueling Cane - A gentleman’s dueling cane of the last epoch is a dangerous ornately carved (often with harmless animals such as rabbits) flexible hexed weapon of ensorcelled bonewhite designed for breaking bones [finesse] +1 hit/damage vs. any target in light or no armor.
-- Boatman’s Cape - A mat of woven reeds, impregnated with special tars and saps from magical sinks known only to the ferrymen of the grand canals, this cape offers excellent protection (½ damage reduction or full immunity on a Save v. Breath) against acid and similar corrosive substances.
-- collar causes the wearer to launch a melee attack at any within 30’ and gain +2 to hit and damage for a loss of 2 points of AC.  To avoid attacking the victim may Save vs. Spells once a round.
-- Alchemical Bandage - A tin marked with a the badge of the Imperial legions, this was once a common item in military stores, a long linen bandage laced with sealants, drugs and magical unguents. When applied to a wound (takes 1 round) it will immediately start healing injuries at a rate of 1 HP per round until it has healed 2d6 hit points. It cannot be reused.
-- Drain Cleaner - Within a scroll triple sealed by the shrine of the 27th Emperor (Saint of hygiene and infrastructure) is an oddly phrased incantation that cannot be translated into contemporary magic, but if cast will produce a wave of howling fiery force that travels for 100’ down any tube or corridor no wider than 10’. All caught in the advancing blast must save vs. spells or take 4D6 disintegration damage.
-- bomb be set to explode, after a 1D6/2 round delay.  The 30’ radius blast will kill any human sized target that fails a save vs. spells and do 2D6 damage to those who do (unless someone saving rolls a 20 - then it’s a dud)
-- Fancifully glazed and decorated with dancing pot bellied demons, this clay goblet will turn any water based liquid (wine, spirits, swamp slime) into clear fresh water
+* art
+* damaged gear from parties of recent years
+* Dueling Cane - A gentleman’s dueling cane of the last epoch is a dangerous ornately carved (often with harmless animals such as rabbits) flexible hexed weapon of ensorcelled bonewhite designed for breaking bones \[finesse] +1 hit/damage vs. any target in light or no armor.
+* Boatman’s Cape - A mat of woven reeds, impregnated with special tars and saps from magical sinks known only to the ferrymen of the grand canals, this cape offers excellent protection (½ damage reduction or full immunity on a Save v. Breath) against acid and similar corrosive substances.
+* collar causes the wearer to launch a melee attack at any within 30’ and gain +2 to hit and damage for a loss of 2 points of AC.  To avoid attacking the victim may Save vs. Spells once a round.
+* Alchemical Bandage - A tin marked with a the badge of the Imperial legions, this was once a common item in military stores, a long linen bandage laced with sealants, drugs and magical unguents. When applied to a wound (takes 1 round) it will immediately start healing injuries at a rate of 1 HP per round until it has healed 2d6 hit points. It cannot be reused.
+* Drain Cleaner - Within a scroll triple sealed by the shrine of the 27th Emperor (Saint of hygiene and infrastructure) is an oddly phrased incantation that cannot be translated into contemporary magic, but if cast will produce a wave of howling fiery force that travels for 100’ down any tube or corridor no wider than 10’. All caught in the advancing blast must save vs. spells or take 4D6 disintegration damage.
+* bomb be set to explode, after a 1D6/2 round delay.  The 30’ radius blast will kill any human sized target that fails a save vs. spells and do 2D6 damage to those who do (unless someone saving rolls a 20 - then it’s a dud)
+* Fancifully glazed and decorated with dancing pot bellied demons, this clay goblet will turn any water based liquid (wine, spirits, swamp slime) into clear fresh water
 
 Every item has a 1 in 20 chance of being cursed. Cursed items :
 
@@ -424,18 +415,18 @@ Every item has a 1 in 20 chance of being cursed. Cursed items :
 
 ## Governments
 
-- Rule by Lottery. rulership assigned by lottery on randomly assigned dates unknown to all except the lottery-council. The current ruler may choose a single assassin to remove their successor within the first two weeks to regain power. Clerical Conspiracies. 
-- Pure plutocracy.  $1 = 1 vote.  No need for taxes?  Governmental positions can be bought and sold as commodities?  Speculative market for governerships?
-- Elderocracy.  You get a number of votes equal to your age.  Bonus points if there are a few elves around. 
-- Exilocracies are awesome.  Rulership by a deposed monarch/anti-pope.
+* Rule by Lottery. rulership assigned by lottery on randomly assigned dates unknown to all except the lottery-council. The current ruler may choose a single assassin to remove their successor within the first two weeks to regain power. Clerical Conspiracies. 
+* Pure plutocracy.  $1 = 1 vote.  No need for taxes?  Governmental positions can be bought and sold as commodities?  Speculative market for governerships?
+* Elderocracy.  You get a number of votes equal to your age.  Bonus points if there are a few elves around. 
+* Exilocracies are awesome.  Rulership by a deposed monarch/anti-pope.
   Necrocracy.  Rulership by the dead. Either living representatives of established families who speak for the dead, or actual conjured spirits.
-- Rulership by the strong.  Can be (a) whoever is best at chess, (c) best at having the strongest champion, (d) best at having a sports team.
-- Goodocracy.  Rulership by the goodest.  Basically the pope throws out merits.  Like "50 points to Gryffindor" and equally bullshit, EXCEPT over time a codified system of precedent emerges.  Like, you get 1 point for every invading orc you kill, no discussion.  Probably involves fuzziness and pope-kissing, BUT it might also include fun things like politicians/dukes making a big show of saving orphans, not having dinner with women who aren't their wife, shedding a tear whenever they see a dove, etc.
-- Kleptocracy.  Rulership by whoever physically possesses the crown, without violence. Anyone who steals it by way of violence is the king, but the death penalty for murderous crown theft is the highest law of the land.
-- Protagonocracy. A council of writers decides who would be most dramatically appropriate to rule.
-- Ascetocracy: temporal power awarded based on ability to deny oneself temporal pleasures, self-denial. Mass fasts instead of debates. Every crown is made of worse thorns. Longest in deprivation chamber is king.
-- Narcocracy: leader has everyone else addicted to drug only they can supply
-- https://goblinpunch.blogspot.com/2018/10/government-in-centerra.html 
+* Rulership by the strong.  Can be (a) whoever is best at chess, (c) best at having the strongest champion, (d) best at having a sports team.
+* Goodocracy.  Rulership by the goodest.  Basically the pope throws out merits.  Like "50 points to Gryffindor" and equally bullshit, EXCEPT over time a codified system of precedent emerges.  Like, you get 1 point for every invading orc you kill, no discussion.  Probably involves fuzziness and pope-kissing, BUT it might also include fun things like politicians/dukes making a big show of saving orphans, not having dinner with women who aren't their wife, shedding a tear whenever they see a dove, etc.
+* Kleptocracy.  Rulership by whoever physically possesses the crown, without violence. Anyone who steals it by way of violence is the king, but the death penalty for murderous crown theft is the highest law of the land.
+* Protagonocracy. A council of writers decides who would be most dramatically appropriate to rule.
+* Ascetocracy: temporal power awarded based on ability to deny oneself temporal pleasures, self-denial. Mass fasts instead of debates. Every crown is made of worse thorns. Longest in deprivation chamber is king.
+* Narcocracy: leader has everyone else addicted to drug only they can supply
+* https://goblinpunch.blogspot.com/2018/10/government-in-centerra.html 
   https://goblinpunch.blogspot.com/2018/10/more-government-in-centerra.html 
   Monarchy
   Democracy
@@ -460,17 +451,17 @@ Every item has a 1 in 20 chance of being cursed. Cursed items :
 
 ## Hazards
 
-- Spinning industrial fans
-- Exposed electrical wiring (electrified floor/circuit breaker/generator) 
-- Pipes transporting explosive gas, labeled
-- hazardous chemical feeds for massive scale 3d printing
-- automated forklifts that carry things around on poorly marked lanes at 90 mph
-- various low tech booby traps guarding a small encampment
-- Stacks of old machinery parts that have been built up over many years, which could collapse at the slightest touch.
-- medical machine that injects anything passing through a door with an immunization medicine that causes severe nausea.
-- steam vents
-- Motion sensing doors that greet people loudly, alerting anyone in earshot.
-- A giant burning tire heap. the city threatens to remove the tire heap as it's a blight on the city but armed residents fight back as they use the tires for fuel during the winter.
+* Spinning industrial fans
+* Exposed electrical wiring (electrified floor/circuit breaker/generator) 
+* Pipes transporting explosive gas, labeled
+* hazardous chemical feeds for massive scale 3d printing
+* automated forklifts that carry things around on poorly marked lanes at 90 mph
+* various low tech booby traps guarding a small encampment
+* Stacks of old machinery parts that have been built up over many years, which could collapse at the slightest touch.
+* medical machine that injects anything passing through a door with an immunization medicine that causes severe nausea.
+* steam vents
+* Motion sensing doors that greet people loudly, alerting anyone in earshot.
+* A giant burning tire heap. the city threatens to remove the tire heap as it's a blight on the city but armed residents fight back as they use the tires for fuel during the winter.
 
 ## inspiration
 
@@ -488,4 +479,4 @@ Owlbears (2D6) - Usually arcanovore scavengers, the jay feathered ‘growlyhoots
 
 Blue Monks (2D6) - blue monks roam from the city on a mission from their “god”, they are unlikely to talk but also unlikely to attack, preferring to return immediately to the city a inform their fellows before organizing a hunt for trespassers to sacrifice.
 
-Slave laborers digging, mining, breaking walls,building stairs. 
+Slave laborers digging, mining, breaking walls,building stairs.
