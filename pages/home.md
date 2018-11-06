@@ -59,7 +59,7 @@ Each tower is large enough to house a city state or two, but they're mostly aban
 
 
 
-![Kowloon-capital](../../../RPG/Kowloon%20Planet%20Capital/Kowloon-capital.png)
+![Kowloon-capital](Kowloon%20Planet%20Capital/Kowloon-capital.png)
 
 The bottom floor of each building has automated defenses. The one at A is deactivated or destroyed.
 
