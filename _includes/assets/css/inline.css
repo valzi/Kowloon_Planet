@@ -22,6 +22,10 @@ body {
 	background-color: var(--turkey);
 }
 
+
+img
+{style="max-width:100%;height:auto;}
+
 main {
 	max-width: 37.5em;
 }
