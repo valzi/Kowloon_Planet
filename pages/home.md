@@ -57,7 +57,7 @@ Each tower is large enough to house a city state or two, but they're mostly aban
 
 1. Terraforming machines
 
-
+![Kowloon-capital-TOP](Kowloon-capital-TOP.png)
 
 ![Kowloon-capital](Kowloon-capital.png)
 
