@@ -57,9 +57,9 @@ Each tower is large enough to house a city state or two, but they're mostly aban
 
 1. Terraforming machines
 
-![Kowloon-capital-TOP](Kowloon-capital-TOP.png)
+![Kowloon-capital-TOP](images/uploads/Kowloon-capital-TOP.png)
 
-![Kowloon-capital](Kowloon-capital.png)
+![Kowloon-capital](images/uploads/Kowloon-capital.png)
 
 The bottom floor of each building has automated defenses. The one at A is deactivated or destroyed.
 
