@@ -98,6 +98,7 @@ The buildings here are generally under 10 stories tall. Unsealed buildings house
 13. Veterans
     A group of veterans is a mix of 2-12 fighters of levels 1-3, per the BX rules.  Unlike traders, these Vikings explore the ruins seeking monster lairs and creatures to fight and loot.
 14. Wight/Wraith/Specter
+15. http://dungeonofsigns.blogspot.com/2015/05/normal-0-false-false-false-en-us-x-none.html
 
 ## Rival Party
 
@@ -240,133 +241,63 @@ Called upon for mediation of disagreement. Little else.
 
 ## Bestiary
 
-## Factions
 
-* archivists/book binders/cataloguers (collect information, especially manuals, especially from the capital.)
-* recyclers of artifacts/junk
-* accounting/banking/safes/vaults
-* beast trainers - take pride in attempting to train anything that won't kill them.
-* beer/wine/cider/cigarettes/liquor/water - provide a minimum standard of living
-* beggars
-* botanists/gardeners
-* bounty hunters
-* butchers
-* candle-making/lantern-building/torch-making/oil preparation
-* cartographers/map archivists
-* constructors (carpenters/stoneworkers/brick-workers)
-* arbiters/administrators of contracts and oaths
-* bounty-setters/purchasers of artifacts
-* currency-makers
-* Setters/removers of curses (they're mostly ineffective)
-* collectors of debt/slave-merchants
-* delicate clothing
-* demolitionists
-* disguises
-* dissolvement of bonds/contracts/agreements
-* diviners (various mancies and communication with the dead)
-* duel mediation
-* economics
-* farming
-* feasts and parties
-* fishing
-* gambling
-* gardeners
-* gas and coal
-* gentlemen thieves
-* glass
-* guards
-* guides
-* history/archive/library destroyers
-* horse breeders
-* jewelry-making
-* keepers of ancient knowledge, relics, etc live atop the highrises.
-* killers of petty gods
-* lantern-making
-* lawful church
-* leatherworkers
-* library
-* limb replacement
-* locksmiths
-* maintainers of architecture
-* medics
-* merchants (foreign and local goods)
-* oracular
-* perfumists
-* philosophers
-* placaters of petty gods
-* plumbing
-* preservation of ecology
-* protect
-* public cleaners
-* quarantine of dungeon creatures
-* Rival scavengers
-* riotists
-* scales and other measures
-* scavenging in cramped spaces
-* scavenging in the open
-* scroll-writers
-* shipwrights
-* smiths of bone/metal/leather
-* spies
-* stone miners
-* storehouses
-* street performers
-* surgeons
-* tattooing/scarring/piercing
-* teachers
-* tinkers
-* tiny contraptions
-* tunnelers
-* weapon forging
-* wheeled transportation
 
-#### Faction quirk
+## Businesses
 
-generous
+- accounting/banking/safes/vaults
+- beggars
+- butchers
+- candle-making/lantern-building/torch-making/oil preparation
+- arbiters/administrators of contracts and oaths
+- dissolvers of of bonds/contracts/agreements
+- duel mediation
+- bounty-setters/purchasers of artifacts
+- setters/removers of curses (mostly ineffective)
+- currency-makers
+- collectors of debt
+- slave-merchants
+- delicate clothing
+- disguise-makers
+- diviners (various mancies and communication with the dead)
+- economics
+- farming
+- feasts and parties
+- fishing
+- gambling
+- gardeners
+- gas and coal
+- guards
+- glass
+- horse breeders
+- jewelry-making
+- leatherworkers
+- limb replacement
+- locksmiths
+- medics
+- oracular
+- perfumists
+- philosophers
+- plumbing
+- public cleaners
+  rioters
+- scales and other measures
+- scroll-writers
+- shipwrights
+- smiths of bone/metal/leather
+- spies
+- stone miners
+- storehouses
+- street performers
+- surgeons
+- tattooing/scarring/piercing
+- teachers
+- tiny contraptions
+- tunnelers
+- weapon forging
+- wheeled transportation
 
-helps downtrodden
-
-charity
-
-wholesome work
-
-aloof but avoids harm
-
-regimented but wholesome
-
-mass production
-
-justice at any cost
-
-knows future
-
-best in their field
-
-prioritize the supernatural/afterlife/philosophical
-
-pursue perfection
-
-floating
-
-very few members
-
-create containers
-
-fake work
-
-rapidly-growing membership
-
-evil/chaotic influence
-
-always whisper
-
-horrific past
-
-rudely abrupt
-
-obsessed with wind movement
-
-motivated by deity
+​                                                                                                                                                                                                                 
 
 ## Items
 
@@ -374,7 +305,7 @@ motivated by deity
 * Self-identification chimes
 * Wind Barrier device: Swirling winds deflect incoming and outgoing small missiles such as arrows or spears. May shelter # people = to Level of operator.
 * battery
-* electronic key 
+* electronic key
   1-8 Red (10gp) 2-5 gems
   9-11 Orange (50gp) 2-4 gems
   12-14 Yellow (100gp) 1-3 gems
@@ -383,29 +314,27 @@ motivated by deity
   19 Indigo (1000gp) 1 gem
   20 Violet (5000gp) 1 gem
 * fuse
-* tech
 * manual
 * drink coaster sized metal disc that adheres to a flat surface - applies effect to object over minutes time
 * exposed cabling/conduit
-* anti organic gun shoots a 30' disintegration ray (save our disintegrate).  It has a cumulative 1 in 6 chance of exploding for 3d6 damage, affecting everyone in a 20' radius.
+* anti organic gun shoots a 30' disintegration ray (save or disintegrate).  It has a cumulative 1 in 6 chance of exploding for 3d6 damage, affecting everyone in a 20' radius.
 * +1 weapon, made from strange metal. 
 * strange metal. 1-2, small; 3-4, medium, 5-6 large.  The alloy is light, durable, and nearly impossible to bend; if the right smith were found back in the world, it could forged into non-magic +1 armor or weapons
-* human - sized fixture (sort of like a shower) with indentations for feet in the floor and head in the wall. 
+* human-sized fixture (sort of like a shower) with indentations for feet in the floor and head in the wall. 
 
-1  Electrical malfunction - shocks anyone within 5' for 1d8.
-2  Implants ai in brain, alongside your mind
-3  transfers tech knowledge to mind
-4 amputates limb and replaces with cybernetic limb.
-5 Intelligence - first character touching it gains a point of Intelligence. 
-
+  1. Electrical malfunction - shocks anyone within 5' for 1d8.
+  2. Implants ai in brain, alongside your mind
+  3. transfers tech knowledge to mind
+  4. amputates limb and replaces with cybernetic limb.
+  5.  Intelligence - first character touching it gains a point of Intelligence. 
 * art
 * damaged gear from parties of recent years
 * Dueling Cane - A gentleman’s dueling cane of the last epoch is a dangerous ornately carved (often with harmless animals such as rabbits) flexible hexed weapon of ensorcelled bonewhite designed for breaking bones \[finesse] +1 hit/damage vs. any target in light or no armor.
 * Boatman’s Cape - A mat of woven reeds, impregnated with special tars and saps from magical sinks known only to the ferrymen of the grand canals, this cape offers excellent protection (½ damage reduction or full immunity on a Save v. Breath) against acid and similar corrosive substances.
-* collar causes the wearer to launch a melee attack at any within 30’ and gain +2 to hit and damage for a loss of 2 points of AC.  To avoid attacking the victim may Save vs. Spells once a round.
+* Collar with spinal needle that causes the wearer to melee attack any within 30’ and gain +2 Attack and Damage -2 DEF.  To avoid attacking the victim may Save once a round.
 * Alchemical Bandage - A tin marked with a the badge of the Imperial legions, this was once a common item in military stores, a long linen bandage laced with sealants, drugs and magical unguents. When applied to a wound (takes 1 round) it will immediately start healing injuries at a rate of 1 HP per round until it has healed 2d6 hit points. It cannot be reused.
-* Drain Cleaner - Within a scroll triple sealed by the shrine of the 27th Emperor (Saint of hygiene and infrastructure) is an oddly phrased incantation that cannot be translated into contemporary magic, but if cast will produce a wave of howling fiery force that travels for 100’ down any tube or corridor no wider than 10’. All caught in the advancing blast must save vs. spells or take 4D6 disintegration damage.
-* bomb be set to explode, after a 1D6/2 round delay.  The 30’ radius blast will kill any human sized target that fails a save vs. spells and do 2D6 damage to those who do (unless someone saving rolls a 20 - then it’s a dud)
+* Drain Cleaner - Within a scroll is aincantation that cannot be translated into contemporary magic, but if cast will produce a wave of howling fiery force that travels for 100’ down any tube or corridor no wider than 10’. All caught in the advancing blast must save vs. spells or take 4D6 disintegration damage.
+* Bomb. May be set to explode, after a 1D6/2 round delay.  The 30’ radius blast will kill any human sized target that fails a save vs. spells and do 2D6 damage to those who do (unless someone saving rolls a 20 - then it’s a dud)
 * Fancifully glazed and decorated with dancing pot bellied demons, this clay goblet will turn any water based liquid (wine, spirits, swamp slime) into clear fresh water
 
 Every item has a 1 in 20 chance of being cursed. Cursed items :
@@ -480,3 +409,66 @@ Owlbears (2D6) - Usually arcanovore scavengers, the jay feathered ‘growlyhoots
 Blue Monks (2D6) - blue monks roam from the city on a mission from their “god”, they are unlikely to talk but also unlikely to attack, preferring to return immediately to the city a inform their fellows before organizing a hunt for trespassers to sacrifice.
 
 Slave laborers digging, mining, breaking walls,building stairs.
+
+
+
+## Armor
+
+Stolen from Gus L, just as a note. Erase and rewrite to suit setting.
+
+
+
+Light Armor (AC 8,7) 1. Skintight Black Leathers Festooned with Zippers 
+2. Waxed Linen Armor 
+3. Buffalo/Dinosaur Skin Robes 
+4. Beaded Feather Cloak 
+5. Sigil Bedecked Mummy Wrappings/Leather straps.
+6. Rubber Unitard/Wetsuit 
+7. Dinosaur Scale Harness and Shoulder pads 
+8. Studded Leather Jerkin 
+9. Leather Business Suit 
+10. Rhinestone Studded, Embroidered Cabaret Wear 
+11. Blood Soaked Hides 
+12. Cords of Braided Fibers, 
+
+Medium Armor (AC 6,5) 
+1. Rusty Chain Wrapping 
+2. Bronze Hoplite Armor 
+3. Boiled Dinosaur Leather 
+4. Mail of Ceramic Discs, With Blue Decorative Glazing 
+5. Copper Scale Armor 
+6. Finely Forged Links of Steel, Electroplated with Red Copper 
+7. Shark Suit 
+8. Bone/Horn/Tooth Scale Mail 
+9. Numerous Bandoliers Filled with Empty/Dud Brass Shells 
+10. Carved Wooden Armor 
+11. Heavy Felt or Tapestry Armor 
+12. Leathers Covered Riveted with Ancient Metal Fragments (Bottle Caps, Old Silverware)
+
+Heavy Armor (AC 4) 
+1. Ancient Flak Armor (Synthetic Fiber Plates) 
+2. Kozane (Scale) Samurai Style Splint Mail 
+3. Banded (Roman Legionnaire) Armor 
+4. Banded Armor Within an Embroidered Leather Brigandine 
+5. “Mirror Armor” – Chain with Large Engraved Metal Plates 
+6. Velvet Brigandine 
+7. Heavy Scale Armor (Cataphract Armor)
+8. Lacquered Plates of Steel
+9. Ancient Endura Glass Shard Scales 
+10. Suit of Powerful Gris Gris and Strange Wicker Fetishes
+11. Armor Made of Sea Beast Shells 
+12. Black or Brown Painted, Bullet 'Proofed' Garrison Armor
+
+Plate Armor (AC 3) 
+1. Giant Insect Chitin Plates
+2. Strange Force Projecting Harness of Golden Orbs 
+3. Glassy Moulded Plates 
+4. Gutted Battle Robot, With Crude Leather Straps
+5. Ancient Suit of Massive Pitted Iron Plates
+6. Gilded Jousting Plate
+7. Articulated Armor of Flanged Bronze Gears and Brass Clockworks
+8. Synthskin Jumpsuit with Glowing Inlays
+9. Living Suit of Tough Meat/Bone Like Plates
+10. Tosei-Gusoku Enameled Iron Plate Armor
+11. Defunct and Much Patched Space Suit
+12. Spike and Flange Covered Blued Steel Armor
