@@ -6,6 +6,8 @@ navtitle: Kowloon Planet
 tags:
   - nav
 ---
+If you play a game at Michael Bacon's table, please don't read this.
+
 ## What Is
 
 Ancient artifacts = laser guns, holograms, screens, keycards, hydroelectric generators, terraforming walls, water purifiers, batteries. 
@@ -241,61 +243,59 @@ Called upon for mediation of disagreement. Little else.
 
 ## Bestiary
 
-
-
 ## Businesses
 
-- accounting/banking/safes/vaults
-- beggars
-- butchers
-- candle-making/lantern-building/torch-making/oil preparation
-- arbiters/administrators of contracts and oaths
-- dissolvers of of bonds/contracts/agreements
-- duel mediation
-- bounty-setters/purchasers of artifacts
-- setters/removers of curses (mostly ineffective)
-- currency-makers
-- collectors of debt
-- slave-merchants
-- delicate clothing
-- disguise-makers
-- diviners (various mancies and communication with the dead)
-- economics
-- farming
-- feasts and parties
-- fishing
-- gambling
-- gardeners
-- gas and coal
-- guards
-- glass
-- horse breeders
-- jewelry-making
-- leatherworkers
-- limb replacement
-- locksmiths
-- medics
-- oracular
-- perfumists
-- philosophers
-- plumbing
-- public cleaners
+* accounting/banking/safes/vaults
+* beggars
+* butchers
+* candle-making/lantern-building/torch-making/oil preparation
+* arbiters/administrators of contracts and oaths
+* dissolvers of of bonds/contracts/agreements
+* duel mediation
+* bounty-setters/purchasers of artifacts
+* setters/removers of curses (mostly ineffective)
+* currency-makers
+* collectors of debt
+* slave-merchants
+* delicate clothing
+* disguise-makers
+* diviners (various mancies and communication with the dead)
+* economics
+* farming
+* feasts and parties
+* fishing
+* gambling
+* gardeners
+* gas and coal
+* guards
+* glass
+* horse breeders
+* jewelry-making
+* leatherworkers
+* limb replacement
+* locksmiths
+* medics
+* oracular
+* perfumists
+* philosophers
+* plumbing
+* public cleaners
   rioters
-- scales and other measures
-- scroll-writers
-- shipwrights
-- smiths of bone/metal/leather
-- spies
-- stone miners
-- storehouses
-- street performers
-- surgeons
-- tattooing/scarring/piercing
-- teachers
-- tiny contraptions
-- tunnelers
-- weapon forging
-- wheeled transportation
+* scales and other measures
+* scroll-writers
+* shipwrights
+* smiths of bone/metal/leather
+* spies
+* stone miners
+* storehouses
+* street performers
+* surgeons
+* tattooing/scarring/piercing
+* teachers
+* tiny contraptions
+* tunnelers
+* weapon forging
+* wheeled transportation
 
 ​                                                                                                                                                                                                                 
 
@@ -321,12 +321,11 @@ Called upon for mediation of disagreement. Little else.
 * +1 weapon, made from strange metal. 
 * strange metal. 1-2, small; 3-4, medium, 5-6 large.  The alloy is light, durable, and nearly impossible to bend; if the right smith were found back in the world, it could forged into non-magic +1 armor or weapons
 * human-sized fixture (sort of like a shower) with indentations for feet in the floor and head in the wall. 
-
   1. Electrical malfunction - shocks anyone within 5' for 1d8.
   2. Implants ai in brain, alongside your mind
   3. transfers tech knowledge to mind
   4. amputates limb and replaces with cybernetic limb.
-  5.  Intelligence - first character touching it gains a point of Intelligence. 
+  5. Intelligence - first character touching it gains a point of Intelligence. 
 * art
 * damaged gear from parties of recent years
 * Dueling Cane - A gentleman’s dueling cane of the last epoch is a dangerous ornately carved (often with harmless animals such as rabbits) flexible hexed weapon of ensorcelled bonewhite designed for breaking bones \[finesse] +1 hit/damage vs. any target in light or no armor.
@@ -410,15 +409,12 @@ Blue Monks (2D6) - blue monks roam from the city on a mission from their “god�
 
 Slave laborers digging, mining, breaking walls,building stairs.
 
-
-
 ## Armor
 
 Stolen from Gus L, just as a note. Erase and rewrite to suit setting.
 
-
-
 Light Armor (AC 8,7) 1. Skintight Black Leathers Festooned with Zippers 
+
 2. Waxed Linen Armor 
 3. Buffalo/Dinosaur Skin Robes 
 4. Beaded Feather Cloak 
@@ -432,6 +428,7 @@ Light Armor (AC 8,7) 1. Skintight Black Leathers Festooned with Zippers
 12. Cords of Braided Fibers, 
 
 Medium Armor (AC 6,5) 
+
 1. Rusty Chain Wrapping 
 2. Bronze Hoplite Armor 
 3. Boiled Dinosaur Leather 
@@ -446,6 +443,7 @@ Medium Armor (AC 6,5)
 12. Leathers Covered Riveted with Ancient Metal Fragments (Bottle Caps, Old Silverware)
 
 Heavy Armor (AC 4) 
+
 1. Ancient Flak Armor (Synthetic Fiber Plates) 
 2. Kozane (Scale) Samurai Style Splint Mail 
 3. Banded (Roman Legionnaire) Armor 
@@ -460,6 +458,7 @@ Heavy Armor (AC 4)
 12. Black or Brown Painted, Bullet 'Proofed' Garrison Armor
 
 Plate Armor (AC 3) 
+
 1. Giant Insect Chitin Plates
 2. Strange Force Projecting Harness of Golden Orbs 
 3. Glassy Moulded Plates 
