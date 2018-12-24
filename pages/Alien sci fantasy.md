@@ -156,9 +156,7 @@ A watch is kept near the local passage to the underground, built by this race, l
 5. Half of them are behind you and half are in front.
 6. One of them makes a stealth attack against whoever is in back at the start of the encounter.
 
-
-
-*Boilermail
+# Boilermail
 
 http://dungeonofsigns.blogspot.com/2012/11/hms-appolyon-sample-boiler-and-plate.html
 
