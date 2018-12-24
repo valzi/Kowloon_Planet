@@ -34,7 +34,8 @@ The suffix for "er":
 1. Reverence is shown to a guillotine symbol, but no actual guillotines seem to exist.
 1. Wiping sweat from the brow is the standard ranged greeting (like waving.)
 1. Emptying one's pockets in front of someone else is a (usually offensive) sexual gesture.
-1. 
+1. Inhaling a deceased loved one's ashes in full is considered proper. Inhaling incompletely or not at all is frowned upon. (Contributed by wr3cking8a11.)
+1. There's an insanely popular canon of plays that were almost a hundred hours of performance time in total. People frequently communicate using only lines from these performances. (Contributed by Spwack.)
 
 # Norms
 
@@ -154,6 +155,8 @@ A watch is kept near the local passage to the underground, built by this race, l
 4. One them does 3 damage instead of d6 damage.
 5. Half of them are behind you and half are in front.
 6. One of them makes a stealth attack against whoever is in back at the start of the encounter.
+
+
 
 *Boilermail
 
