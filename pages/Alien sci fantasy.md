@@ -55,23 +55,21 @@ The suffix for "er":
 
 7. No one has pockets. Wearing backpacks is weak and suggests deviant sexuality in the stronger sex. Carrying things in a bag is the norm.
 
-8. When anyone burps or farts, it's polite to say "wash your hands" but the young say "curses off" to make the saying more relatable to b he younger generation who don't believe in the old superstitions of "Hygiene."
+8. Speaking kindly of the dead makes elderly people very upset. They make religious signs in response and huff or sigh or swear.
 
-9. Speaking kindly of the dead makes elderly people very upset. They make religious signs in response and huff or sigh or swear.
+9. Working on an even day of the week is taboo. "Working" refers to minor labors like lifting objects from the ground, not real work like cooking or farming.
 
-10. Working on an even day of the week is taboo. "Working" refers to minor labors like lifting objects from the ground, not real work like cooking or farming.
+10. The elderly act as if they are unwise in order to boost the confidence of the young.
 
-11. The elderly act as if they are unwise in order to boost the confidence of the young.
+11. A tip is expected for service before service is rendered. The tip amount seems to have no effect on the quality of the service.
 
-12. A tip is expected for service before service is rendered. The tip amount seems to have no effect on the quality of the service.
+12. Applause is rendered by way of a single clap in unison. Nearly everyone seems to know the right moment to clap, though a few claps lag behind in larger groups.
 
-13. Applause is rendered by way of a single clap in unison. Nearly everyone seems to know the right moment to clap, though a few claps lag behind in larger groups.
+13. Guests are always offered a bath just after arrival. A "bath" is a wet towel and a bar of soap prepared for you in a private room.
 
-14. Guests are always offered a bath just after arrival. A "bath" is a wet towel and a bar of soap prepared for you in a private room.
+14. Anything that might be personal, private, or valuable is handled by non-owners delicately with two hands and closely examined with false awe.
 
-15. Anything that might be personal, private, or valuable is handled by non-owners delicately with two hands and closely examined with false awe.
-
-16. Different colors of flat objects (traditionally flowers or leaves but paper or cloth may be used) may be left at a person's place of residence (with a signature marking) or handed to them to communicate basic messages interpreted by context.
+15. Different colors of flat objects (traditionally flowers or leaves but paper or cloth may be used) may be left at a person's place of residence (with a signature marking) or handed to them to communicate basic messages interpreted by context.
 
     Add blood to any of the following to make the communication very serious/demanding/threatening. (Roll once and read across or roll twice until all colors are assigned.)
 
@@ -83,13 +81,15 @@ The suffix for "er":
     | 5 Challenge  | Red    |
     | 6 Invitation | Black  |
 
-17. They treat all juices as delicacies and drink them socially. Juices are highly concentrated and sipped slowly over a one or two-hour conversation.
+16. They treat all juices as delicacies and drink them socially. Juices are highly concentrated and sipped slowly over a one or two-hour conversation.
 
-18. Drinking milk is as offensive as forgetting to cover yourself.
+17. Drinking milk is as offensive as forgetting to cover yourself.
 
-19. Used to offer virgins to the god of Cracks, Fissures, and Pits but now everyone regards this as barbaric and dumps undesired food in such places instead.
+18. Used to offer virgins to the god of Cracks, Fissures, and Pits but now everyone regards this as barbaric and dumps undesired food in such places instead.
 
-20. Unlucky number only referred to by euphemisms: roll 1d10.
+19. Unlucky number only referred to by euphemisms: roll 1d10.
+
+20. Chewing food whilst in the streets is a symbol of prosperity and good health.
 
 # Beliefs
 
@@ -103,7 +103,7 @@ The suffix for "er":
    4. pheromones
    5. subtle urges sent by the dead and other spirits
    6. lie detection
-3. 
+3. When anyone burps or farts, it's polite to say "wash your hands" but the young say "curses off" to make the saying more relatable to the younger generation who don't believe in the old "Hygiene"superstitions.
 
 # Skin colors
 
