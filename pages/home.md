@@ -14,7 +14,7 @@ No one understands how to create these things.
 
 Electricity is not understood. Elders provide some maintenance knowledge, but it's ritualistic and often incorrect. 
 
-Only a few believe/know the semi correct stories about what happened.
+Only a few believe/know the half-true stories about what happened.
 
 Since most who fled to here were criminals, protesters, and paranoid libertarians, the culture of their descendants tends toward isolation and anarchy.
 
@@ -55,6 +55,8 @@ Each tower is large enough to house a city state or two, but they're mostly aban
 ### Rumored Treasures
 
 1. Terraforming machines
+
+## Towers
 
 ![Kowloon-capital-TOP](/static/img/Kowloon-capital-TOP.png)
 
@@ -239,6 +241,10 @@ Called upon for mediation of disagreement. Little else.
 * personal disagreements/feuds handled by meditation, duel, or trial (last resort though only official method.) 
 * harm to locals by outsiders meets harshest punishment
 
+### Factions
+
+[See here](https://docs.google.com/document/d/12msnB7Jky8AKm_qQEP6f64XHtKMYlZBKC3w_pvhp4uA/edit#heading=h.b7i6h7edjjn4).
+
 ## Bestiary
 
 
@@ -336,6 +342,16 @@ Called upon for mediation of disagreement. Little else.
 * Drain Cleaner - Within a scroll is aincantation that cannot be translated into contemporary magic, but if cast will produce a wave of howling fiery force that travels for 100’ down any tube or corridor no wider than 10’. All caught in the advancing blast must save vs. spells or take 4D6 disintegration damage.
 * Bomb. May be set to explode, after a 1D6/2 round delay.  The 30’ radius blast will kill any human sized target that fails a save vs. spells and do 2D6 damage to those who do (unless someone saving rolls a 20 - then it’s a dud)
 * Fancifully glazed and decorated with dancing pot bellied demons, this clay goblet will turn any water based liquid (wine, spirits, swamp slime) into clear fresh water
+
+
+
+https://goblinpunch.blogspot.com/2015/01/d100-minor-magical-items.html
+
+http://udan-adan.blogspot.com/2018/02/when-all-you-have-is-hammer-item-based.html
+
+http://www.bastionland.com/2016/01/d100-oddities-for-new-characters.html
+
+
 
 Every item has a 1 in 20 chance of being cursed. Cursed items :
 
@@ -472,3 +488,104 @@ Plate Armor (AC 3)
 10. Tosei-Gusoku Enameled Iron Plate Armor
 11. Defunct and Much Patched Space Suit
 12. Spike and Flange Covered Blued Steel Armor
+
+## 20 Campaign Questions
+
+1. What is the deal with my cleric's religion? 
+
+Small gods have small influence and can be physically met in person. They've been known to die by mortal hands. Clerics do not gain their power from them. Clerics are just a specific kind of wizard. 
+
+2. Where can we go to buy standard equipment?
+
+The city just outside of capital city sells the basics. Other things require travel to __ or working for a faction. 
+
+3. Where can we go to get platemail custom fitted for this monster I just befriended?
+
+Plate-quality armor is only available at exorbitant prices or as a perk of sworn service to a faction. 
+
+4. Who is the mightiest wizard in the land?
+
+It seems they're all dead. Not that there ever were many. 
+
+5. Who is the greatest warrior in the land?
+
+Probably one of the members of one of the groups that've been scavenging the capital blocks. 
+
+6. Who is the richest person in the land?
+
+One of the aristocrats at __
+
+7. Where can we go to get some magical healing?
+
+No where. Maybe there is some ancient tech or a medical facility in one of the capital blocks. 
+
+8. Where can we go to get cures for the following conditions: poison, disease, curse, level drain, lycanthropy, polymorph, alignment change, death, undeath?
+
+If you find out, let me know. I bet whoever can do that can also turn dirt clods into bacon, velvet and gold. 
+
+9. Is there a magic guild my MU belongs to or that I can join in order to get more spells?
+
+There are no magic users known to human civilization, but the natives on the other side of the world make all sorts of elaborate claims. 
+
+10. Where can I find an alchemist, sage or other expert NPC?
+
+Experts are generally in big cities and not in villages. Some have also gathered in the burgeoning settlement outside of the old capital. 
+
+11. Where can I hire mercenaries?
+
+From among a faction's members. Most factions will not allow a non member to hire. 
+
+12. Is there any place on the map where swords are illegal, magic is outlawed or any other notable hassles from Johnny Law?
+
+Magic isn't illegal anywhere.
+
+13. Which way to the nearest tavern?
+14. What monsters are terrorizing the countryside sufficiently that if I kill them I will become famous?
+15. Are there any wars brewing I could go fight?
+16. How about gladiatorial arenas complete with hard-won glory and fabulous cash prizes?
+17. Are there any secret societies with sinister agendas I could join and/or fight?
+18. What is there to eat around here?
+19. Any legendary lost treasures I could be looking for?
+20. Where is the nearest dragon or other monster with Type H treasure?
+
+## 20 City Questions
+
+1. What religion is most prevalent in the city? Who benefits from this/who suffers?
+
+2. Who in the city will reliably buy art pieces and recovered relics from the PC’s? What’s their deal?
+
+3. What is illegal in the city? What’s punishable with jail time, and what’s punishable by death?
+
+4. If you get caught doing crimes, how are you tried? What’s the court system like?
+
+5. What’s the opinion of magic in the city, and is there a place to study it?
+
+6. Who is the richest person in the city? Who are their enemies?
+
+7. What kind of government does the city have? Whose interests do they represent?
+
+8. What’s under the city? Sewers, dungeons, tunnels, aqueducts? What lives in them?
+
+9. What neighbourhoods of the city might the PC’s be barred entry to, based on race/class/status/etc?
+
+10. What’s the terrain like in the city? Is it flat, hilly, are the streets wide or narrow? Does it differ from neighbourhood to neighbourhood?
+
+11. What’s the climate and weather like? Is it temperate, cold, hot, rainy? This should influence both clothing and food available.
+
+12. What’s the architecture of ordinary buildings like? Multi-story, towers, brick, wood, organic materials, basements, attics? Are they easily climbed or broken into?
+
+13. What’s currently in fashion among the rich and middle class? Are there sumptuary laws?
+
+14. Is dueling permitted/encouraged? What laws exist around it? How likely are PC’s to be challenged to a duel on the street?
+
+15. What’s one unique building/landmark/feature the city is most famous for? There should be more than one, but you should have *at least* one.
+
+16. What are some typical random encounters the PC’s might come across in the streets during the day? At night? You should be able to come up with about 6-10 for each.
+
+17. Who can the PC’s turn to if they break the law or need to escape from town guards? What payment/favours will this person ask for in return?
+
+18. Can you openly wear weapons in the city? If not, who is exempt from this rule?
+
+19. What are some common animals you might see in the streets? Where are animals or beasts not allowed to enter?
+
+20. What can’t be bought in the city, and would need to be smuggled into the city illegally? Who in the city could reliably do this?
