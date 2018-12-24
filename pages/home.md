@@ -1,5 +1,5 @@
 ---
-title: Kowloon Planet
+title: Abandoned on the Kowloon Planet
 date: 2016-01-01T00:00:00.000Z
 permalink: /
 navtitle: Kowloon Planet
@@ -10,11 +10,11 @@ If you play a game at Michael Bacon's table, please don't read this.
 
 ## What Is
 
-Ancient artifacts = laser guns, holograms, screens, keycards, hydroelectric generators, terraforming walls, water purifiers, batteries. 
+Ancient artifacts = laser guns, holograms, screens, keycards, hydroelectric generators, terraforming walls, water purifiers, batteries.
 
-No one understands how to create these things. 
+No one understands how to create these things.
 
-Electricity is not understood. Elders provide some maintenance knowledge, but it's ritualistic and often incorrect. 
+Electricity is not understood. Elders provide some maintenance knowledge, but it's ritualistic and often incorrect.
 
 Only a few believe/know the half-true stories about what happened.
 
@@ -28,29 +28,29 @@ Automatons continue their endless tasks.
 
 Over 200 years ago, two Empires formed a treaty agreeing that neither would interfere with this contested planet, that it would simply be ignored.
 
-Criminals, anarchists, religious extremists, and other desperate folk fled to it as a safe haven, but they had no way of maintaining or building tech, mostly due to lack of expertise. Constant upheaval of government, gang warfare, and philosophical movements against various kinds of knowledge removed what little stability remained. 
+Criminals, anarchists, religious extremists, and other desperate folk fled to it as a safe haven, but they had no way of maintaining or building tech, mostly due to lack of expertise. Constant upheaval of government, gang warfare, and philosophical movements against various kinds of knowledge removed what little stability remained.
 
 ## Capital (Megadungeon)
 
-Most tech is in the Capital, a dense, piecemeal hub that was a port city on the center edge of the larger continent (there are only two) for space trade. 
+Most tech is in the Capital, a dense, piecemeal hub that was a port city on the center edge of the larger continent (there are only two) for space trade.
 
 From a distance, it's a giant block made of 5 individual highrises occasionally connected by makeshift bridges.
 
 Sealed floors, broken elevators, collapsed stairwells, and connections between one highrise and the next.
 
-Navigating it occasionally requires parkour, bridge-building, climbing, or the use of a zip line. 
+Navigating it occasionally requires parkour, bridge-building, climbing, or the use of a zip line.
 
-It's not a city anymore. It's a claustrophobic, half-vertical wilderness with occasional settled spaces. (It's a point-crawl dungeon.) 
+It's not a city anymore. It's a claustrophobic, half-vertical wilderness with occasional settled spaces. (It's a point-crawl dungeon.)
 
 Traps originally existed to protect property /gang territory etc. Some are still for that purpose and some are recently-built, but many are ancient and technologically advanced.
 
 Mysterious, untainted tech is rumored to be on the highest floors, guarded by traditional tribes and hermits.
 
-Other wonders are rumored to be lost in the high rises: archives, cultural texts, and manuals. 
+Other wonders are rumored to be lost in the high rises: archives, cultural texts, and manuals.
 
-Many locations, even in A, are completely blocked (often by dangerous defenses) and require a key to access. 
+Many locations, even in A, are completely blocked (often by dangerous defenses) and require a key to access.
 
-Ancient writings often have words similar to modern writings and usually use the same alphabet. Most books are from Empire 1. Empire 2 books use a different alphabet. 
+Ancient writings often have words similar to modern writings and usually use the same alphabet. Most books are from Empire 1. Empire 2 books use a different alphabet.
 
 Each tower is large enough to house a city state or two, but they're mostly abandoned. The top floor much more competently connects all highrises to each other and houses a strange civilization of isolationist engineers who understand most of the city's technology and guard it closely, including a huge library of ordinary books, but especially manuals
 
@@ -74,15 +74,15 @@ Maybe there is something great past E, outdoors? Create rumors and an actual thi
 
 ### A
 
-Just north of Access. Many know important details, but much information is guarded closely because those who have been there have a vested interest in exploring faster and further than anyone else, lest their prize be taken or destroyed by someone else. It will be hard to gather more than rumors. Gathering intel about deeper areas is difficult. 
+Just north of Access. Many know important details, but much information is guarded closely because those who have been there have a vested interest in exploring faster and further than anyone else, lest their prize be taken or destroyed by someone else. It will be hard to gather more than rumors. Gathering intel about deeper areas is difficult.
 
-The buildings here are generally under 10 stories tall. Unsealed buildings house bandits and monsters. 
+The buildings here are generally under 10 stories tall. Unsealed buildings house bandits and monsters.
 
 ## Encounters
 
 1. gang
-   undisciplined, patrols the area, attempting to kill anyone they consider "a threat to the expedience of our Lord's extraction of the material." They sound like a cult, but they're paid in drugs (which make them stupid and temperamental) to guard the area against anyone who doesn't benefit their boss. 1d12 members present. 1 HD. 3 HP. 
-2. 1 bear. 
+   undisciplined, patrols the area, attempting to kill anyone they consider "a threat to the expedience of our Lord's extraction of the material." They sound like a cult, but they're paid in drugs (which make them stupid and temperamental) to guard the area against anyone who doesn't benefit their boss. 1d12 members present. 1 HD. 3 HP.
+2. 1 bear.
 3. Drone
    attempts to stay out of reach but watches party. Allows a rival party to ambush if it's not evaded or destroyed in d4+3 turns.
 4. Rival party. (See _Rival Parties_.)
@@ -95,7 +95,7 @@ The buildings here are generally under 10 stories tall. Unsealed buildings house
 9. Cult
    Totally devoted suppliers of the elder families at the top of the towers. They bring gardening stuff, ugly enslaved women (less likely to be discontent), and raw materials.
 10. Cyborgs
-    work to connect the ai to everything. They're corpses with lots of cybernetics keeping them alive. "Killed" ones are collected by crabots and transported to nearest surgical cube for repair. 
+    work to connect the ai to everything. They're corpses with lots of cybernetics keeping them alive. "Killed" ones are collected by crabots and transported to nearest surgical cube for repair.
 11. Children of the Capital
     Thin, gangly people who always look about 20-40 years older than they are. Surgically granted specialized knowledge about one kind of tech, as an adolescent rite of passage. The knowledge is subconscious, but most will, eventually, at least once in their lifetime, be taken by a fit of isolationism and craft a marvelous artifact. No one knows the artifact is dependent on the rite, which is only a superstitious tradition.
 12. Traders consist of 3-18 level 1 fighters, with 1-4 mules, engaged primarily in excavation and recovery of artifacts - they'll be armed, and will also have shovels, picks, and digging equipment.  Like everyone else, they've arrived in Trade Town via longship and will be dressed appropriately.
@@ -172,13 +172,13 @@ Rival Parties:
 
 1. 1D4 + 4 NPCs
 2. 1D6
-   1 Fighter 
+   1 Fighter
 
   2 Wizard
 
-  3 Cleric 
+  3 Cleric
 
-  4 Thief 
+  4 Thief
 
   5 Fighter
 
@@ -221,26 +221,26 @@ Rival Parties:
 
 ## Capital Access City
 
-Trade city. Economy built on trade of items and information from the Capital and services for those who wish to explore/scavenge it. Many factions and individual patrons due to "gold rush" competitiveness/excitement/greed. 
+Trade city. Economy built on trade of items and information from the Capital and services for those who wish to explore/scavenge it. Many factions and individual patrons due to "gold rush" competitiveness/excitement/greed.
 
 Limited resources and at high cost.
 
-No access to magical items or services. 
+No access to magical items or services.
 
-Local merchants usually pay 60% of value for goods they're interested in and then export for resale. 
+Local merchants usually pay 60% of value for goods they're interested in and then export for resale.
 
-Local faction provides access to dungeon entrance and passage back out as a paid service. Also guards passage to city. 
+Local faction provides access to dungeon entrance and passage back out as a paid service. Also guards passage to city.
 
-Secret wizard, witch. 
+Secret wizard, witch.
 
 ### Government
 
-Called upon for mediation of disagreement. Little else. 
+Called upon for mediation of disagreement. Little else.
 
 ### Laws
 
 * Anyone may scavenge/explore
-* personal disagreements/feuds handled by meditation, duel, or trial (last resort though only official method.) 
+* personal disagreements/feuds handled by meditation, duel, or trial (last resort though only official method.)
 * harm to locals by outsiders meets harshest punishment
 
 ### Factions
@@ -324,14 +324,14 @@ Called upon for mediation of disagreement. Little else.
 * drink coaster sized metal disc that adheres to a flat surface - applies effect to object over minutes time
 * exposed cabling/conduit
 * anti organic gun shoots a 30' disintegration ray (save or disintegrate).  It has a cumulative 1 in 6 chance of exploding for 3d6 damage, affecting everyone in a 20' radius.
-* +1 weapon, made from strange metal. 
+* +1 weapon, made from strange metal.
 * strange metal. 1-2, small; 3-4, medium, 5-6 large.  The alloy is light, durable, and nearly impossible to bend; if the right smith were found back in the world, it could forged into non-magic +1 armor or weapons
-* human-sized fixture (sort of like a shower) with indentations for feet in the floor and head in the wall. 
+* human-sized fixture (sort of like a shower) with indentations for feet in the floor and head in the wall.
   1. Electrical malfunction - shocks anyone within 5' for 1d8.
   2. Implants ai in brain, alongside your mind
   3. transfers tech knowledge to mind
   4. amputates limb and replaces with cybernetic limb.
-  5. Intelligence - first character touching it gains a point of Intelligence. 
+  5. Intelligence - first character touching it gains a point of Intelligence.
 * art
 * damaged gear from parties of recent years
 * Dueling Cane - A gentleman’s dueling cane of the last epoch is a dangerous ornately carved (often with harmless animals such as rabbits) flexible hexed weapon of ensorcelled bonewhite designed for breaking bones \[finesse] +1 hit/damage vs. any target in light or no armor.
@@ -354,14 +354,14 @@ http://www.bastionland.com/2016/01/d100-oddities-for-new-characters.html
 
 Every item has a 1 in 20 chance of being cursed. Cursed items :
 
-1. Attempt to control character at half hp. Save. 
-2. 
+1. Attempt to control character at half hp. Save.
+2.
 
 ## Governments
 
-* Rule by Lottery. rulership assigned by lottery on randomly assigned dates unknown to all except the lottery-council. The current ruler may choose a single assassin to remove their successor within the first two weeks to regain power. Clerical Conspiracies. 
+* Rule by Lottery. rulership assigned by lottery on randomly assigned dates unknown to all except the lottery-council. The current ruler may choose a single assassin to remove their successor within the first two weeks to regain power. Clerical Conspiracies.
 * Pure plutocracy.  $1 = 1 vote.  No need for taxes?  Governmental positions can be bought and sold as commodities?  Speculative market for governerships?
-* Elderocracy.  You get a number of votes equal to your age.  Bonus points if there are a few elves around. 
+* Elderocracy.  You get a number of votes equal to your age.  Bonus points if there are a few elves around.
 * Exilocracies are awesome.  Rulership by a deposed monarch/anti-pope.
   Necrocracy.  Rulership by the dead. Either living representatives of established families who speak for the dead, or actual conjured spirits.
 * Rulership by the strong.  Can be (a) whoever is best at chess, (c) best at having the strongest champion, (d) best at having a sports team.
@@ -370,33 +370,33 @@ Every item has a 1 in 20 chance of being cursed. Cursed items :
 * Protagonocracy. A council of writers decides who would be most dramatically appropriate to rule.
 * Ascetocracy: temporal power awarded based on ability to deny oneself temporal pleasures, self-denial. Mass fasts instead of debates. Every crown is made of worse thorns. Longest in deprivation chamber is king.
 * Narcocracy: leader has everyone else addicted to drug only they can supply
-* https://goblinpunch.blogspot.com/2018/10/government-in-centerra.html 
-  https://goblinpunch.blogspot.com/2018/10/more-government-in-centerra.html 
+* https://goblinpunch.blogspot.com/2018/10/government-in-centerra.html
+  https://goblinpunch.blogspot.com/2018/10/more-government-in-centerra.html
   Monarchy
   Democracy
   Oligarchy
   Theocracy
   Brutal despotism
   Triumvirate
-  Pirate Warlords. Conquered 1d6 generations ago, family is currently in the process of being assimilated into the aristocracy. 
+  Pirate Warlords. Conquered 1d6 generations ago, family is currently in the process of being assimilated into the aristocracy.
   Anarchy
   Active Civil War. Roll again twice
-  Wizard Families. 
+  Wizard Families.
   Dog
   Concubocracy. Harem = Senate
   Necrocracy. Rule by the Once-Briefly-Dead, Actual Dead sometimes consulted
   Gamocracy. All positions filled by married couples
-  Kleptocracy. Nonviolently steal things to gain rank. 
+  Kleptocracy. Nonviolently steal things to gain rank.
   Lottery. Names in hats for every position, from King to Beggar
   Coin voting. All government is controlled by money anyway; just toss coins in the fountain and announce your vote
-  Judicial. Precedents are Laws. Cases decided by gladiatorial combat with judge-determined handicaps and advantages, with lawyers sometimes standing in for clients 
+  Judicial. Precedents are Laws. Cases decided by gladiatorial combat with judge-determined handicaps and advantages, with lawyers sometimes standing in for clients
   Divination Determinism. The future will be carried out
   Smaller self-governed districts
 
 ## Hazards
 
 * Spinning industrial fans
-* Exposed electrical wiring (electrified floor/circuit breaker/generator) 
+* Exposed electrical wiring (electrified floor/circuit breaker/generator)
 * Pipes transporting explosive gas, labeled
 * hazardous chemical feeds for massive scale 3d printing
 * automated forklifts that carry things around on poorly marked lanes at 90 mph
@@ -429,55 +429,55 @@ Slave laborers digging, mining, breaking walls,building stairs.
 
 Stolen from Gus L, just as a note. Erase and rewrite to suit setting.
 
-Light Armor (AC 8,7) 1. Skintight Black Leathers Festooned with Zippers 
+Light Armor (AC 8,7) 1. Skintight Black Leathers Festooned with Zippers
 
-2. Waxed Linen Armor 
-3. Buffalo/Dinosaur Skin Robes 
-4. Beaded Feather Cloak 
+2. Waxed Linen Armor
+3. Buffalo/Dinosaur Skin Robes
+4. Beaded Feather Cloak
 5. Sigil Bedecked Mummy Wrappings/Leather straps.
-6. Rubber Unitard/Wetsuit 
-7. Dinosaur Scale Harness and Shoulder pads 
-8. Studded Leather Jerkin 
-9. Leather Business Suit 
-10. Rhinestone Studded, Embroidered Cabaret Wear 
-11. Blood Soaked Hides 
-12. Cords of Braided Fibers, 
+6. Rubber Unitard/Wetsuit
+7. Dinosaur Scale Harness and Shoulder pads
+8. Studded Leather Jerkin
+9. Leather Business Suit
+10. Rhinestone Studded, Embroidered Cabaret Wear
+11. Blood Soaked Hides
+12. Cords of Braided Fibers,
 
-Medium Armor (AC 6,5) 
+Medium Armor (AC 6,5)
 
-1. Rusty Chain Wrapping 
-2. Bronze Hoplite Armor 
-3. Boiled Dinosaur Leather 
-4. Mail of Ceramic Discs, With Blue Decorative Glazing 
-5. Copper Scale Armor 
-6. Finely Forged Links of Steel, Electroplated with Red Copper 
-7. Shark Suit 
-8. Bone/Horn/Tooth Scale Mail 
-9. Numerous Bandoliers Filled with Empty/Dud Brass Shells 
-10. Carved Wooden Armor 
-11. Heavy Felt or Tapestry Armor 
+1. Rusty Chain Wrapping
+2. Bronze Hoplite Armor
+3. Boiled Dinosaur Leather
+4. Mail of Ceramic Discs, With Blue Decorative Glazing
+5. Copper Scale Armor
+6. Finely Forged Links of Steel, Electroplated with Red Copper
+7. Shark Suit
+8. Bone/Horn/Tooth Scale Mail
+9. Numerous Bandoliers Filled with Empty/Dud Brass Shells
+10. Carved Wooden Armor
+11. Heavy Felt or Tapestry Armor
 12. Leathers Covered Riveted with Ancient Metal Fragments (Bottle Caps, Old Silverware)
 
-Heavy Armor (AC 4) 
+Heavy Armor (AC 4)
 
-1. Ancient Flak Armor (Synthetic Fiber Plates) 
-2. Kozane (Scale) Samurai Style Splint Mail 
-3. Banded (Roman Legionnaire) Armor 
-4. Banded Armor Within an Embroidered Leather Brigandine 
-5. “Mirror Armor” – Chain with Large Engraved Metal Plates 
-6. Velvet Brigandine 
+1. Ancient Flak Armor (Synthetic Fiber Plates)
+2. Kozane (Scale) Samurai Style Splint Mail
+3. Banded (Roman Legionnaire) Armor
+4. Banded Armor Within an Embroidered Leather Brigandine
+5. “Mirror Armor” – Chain with Large Engraved Metal Plates
+6. Velvet Brigandine
 7. Heavy Scale Armor (Cataphract Armor)
 8. Lacquered Plates of Steel
-9. Ancient Endura Glass Shard Scales 
+9. Ancient Endura Glass Shard Scales
 10. Suit of Powerful Gris Gris and Strange Wicker Fetishes
-11. Armor Made of Sea Beast Shells 
+11. Armor Made of Sea Beast Shells
 12. Black or Brown Painted, Bullet 'Proofed' Garrison Armor
 
-Plate Armor (AC 3) 
+Plate Armor (AC 3)
 
 1. Giant Insect Chitin Plates
-2. Strange Force Projecting Harness of Golden Orbs 
-3. Glassy Moulded Plates 
+2. Strange Force Projecting Harness of Golden Orbs
+3. Glassy Moulded Plates
 4. Gutted Battle Robot, With Crude Leather Straps
 5. Ancient Suit of Massive Pitted Iron Plates
 6. Gilded Jousting Plate
@@ -491,25 +491,25 @@ Plate Armor (AC 3)
 
 ## 20 Campaign Questions
 
-1. What is the deal with my cleric's religion? 
+1. What is the deal with my cleric's religion?
 
-Small gods have small influence and can be physically met in person. They've been known to die by mortal hands. Clerics do not gain their power from them. Clerics are just a specific kind of wizard. 
+Small gods have small influence and can be physically met in person. They've been known to die by mortal hands. Clerics do not gain their power from them. Clerics are just a specific kind of wizard.
 
 2. Where can we go to buy standard equipment?
 
-The city just outside of capital city sells the basics. Other things require travel to __ or working for a faction. 
+The city just outside of capital city sells the basics. Other things require travel to __ or working for a faction.
 
 3. Where can we go to get platemail custom fitted for this monster I just befriended?
 
-Plate-quality armor is only available at exorbitant prices or as a perk of sworn service to a faction. 
+Plate-quality armor is only available at exorbitant prices or as a perk of sworn service to a faction.
 
 4. Who is the mightiest wizard in the land?
 
-It seems they're all dead. Not that there ever were many. 
+It seems they're all dead. Not that there ever were many.
 
 5. Who is the greatest warrior in the land?
 
-Probably one of the members of one of the groups that've been scavenging the capital blocks. 
+Probably one of the members of one of the groups that've been scavenging the capital blocks.
 
 6. Who is the richest person in the land?
 
@@ -517,23 +517,23 @@ One of the aristocrats at __
 
 7. Where can we go to get some magical healing?
 
-No where. Maybe there is some ancient tech or a medical facility in one of the capital blocks. 
+No where. Maybe there is some ancient tech or a medical facility in one of the capital blocks.
 
 8. Where can we go to get cures for the following conditions: poison, disease, curse, level drain, lycanthropy, polymorph, alignment change, death, undeath?
 
-If you find out, let me know. I bet whoever can do that can also turn dirt clods into bacon, velvet and gold. 
+If you find out, let me know. I bet whoever can do that can also turn dirt clods into bacon, velvet and gold.
 
 9. Is there a magic guild my MU belongs to or that I can join in order to get more spells?
 
-There are no magic users known to human civilization, but the natives on the other side of the world make all sorts of elaborate claims. 
+There are no magic users known to human civilization, but the natives on the other side of the world make all sorts of elaborate claims.
 
 10. Where can I find an alchemist, sage or other expert NPC?
 
-Experts are generally in big cities and not in villages. Some have also gathered in the burgeoning settlement outside of the old capital. 
+Experts are generally in big cities and not in villages. Some have also gathered in the burgeoning settlement outside of the old capital.
 
 11. Where can I hire mercenaries?
 
-From among a faction's members. Most factions will not allow a non member to hire. 
+From among a faction's members. Most factions will not allow a non member to hire.
 
 12. Is there any place on the map where swords are illegal, magic is outlawed or any other notable hassles from Johnny Law?
 
@@ -589,5 +589,3 @@ Magic isn't illegal anywhere.
 19. What are some common animals you might see in the streets? Where are animals or beasts not allowed to enter?
 
 20. What can’t be bought in the city, and would need to be smuggled into the city illegally? Who in the city could reliably do this?
-=======
->>>>>>> 2d93344a21a3112992b3689c550478d991c9373e
