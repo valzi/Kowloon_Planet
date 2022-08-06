@@ -22,7 +22,8 @@ Since most who fled to here were criminals, protesters, and paranoid libertarian
 
 Another "alien" civ on the other side of the planet mostly keep to their continent, but some immigrate. This is where knowledge of magic (mostly witchy magic) is kept secret from the offworlders.
 
-Automatons continue their endless tasks.
+Automatons loop through tasks endlessly throughout the world. Most aren't dangerous if they're not interfered with.
+
 
 ## What Was
 
